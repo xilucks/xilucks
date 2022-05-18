@@ -1,8 +1,3 @@
-<h1>
-  🛠fix🛠
-</h1>
-
-
 <h2>
   
   Welcome to xiluck's Github
@@ -28,11 +23,7 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   </div>
   
-  <div>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  </div>  
-  
+ 
   
 </h3>
 
