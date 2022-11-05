@@ -38,16 +38,16 @@
   </div>
   
   ### 🏃‍♀️ Experience
-  | 활동 | 일자 |
-  |:---:|:---|
-  | Dongguk Univ. Management Information System. | 2017.03. - ing|
-  | 동국대학교, 모바일 시스템 개발 튜터 | 2018.03. - 2018.06. |
-  | 동국대학교, 비즈니스 프로그래밍 튜터 | 2018.09. - 2018.12. |
-  | 동국대학교, 2021-여름 소프트웨어 집중교육 | 2021.07. - 2021.08. |
-  | KUSITMS, 한국대학생IT경영학회 24기 개발팀 | 2021.09. - 2021.12. |
-  | UMC(University MakeUs Challenge), 동국지부 서버 Spring 파트 | 2022.03 - 2022.08.|
-  | ProMIS, 동국대학교 경영정보학과 IT 소모임 소모임장 | 2022.03. - 2022.12. |
-  | 네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지 웹풀스택 | 2022.08 - 2022.09. |
+  | 활동 | 일자 | 링크 |
+  |:---:|:---|:---:|
+  | Dongguk Univ. Management Information System. | 2017.03. - ing| |
+  | 동국대학교, 모바일 시스템 개발 튜터 | 2018.03. - 2018.06. | | 
+  | 동국대학교, 비즈니스 프로그래밍 튜터 | 2018.09. - 2018.12. | |
+  | 동국대학교, 2021-여름 소프트웨어 집중교육 | 2021.07. - 2021.08. | [바로가기](https://github.com/xilucks/java_Study/tree/master/src/Hello_algo) | 
+  | KUSITMS, 한국대학생IT경영학회 24기 개발팀 | 2021.09. - 2021.12. | [바로가기](https://github.com/1thefull-Project/Frontend) |
+  | UMC(University MakeUs Challenge), 동국지부 서버 Spring 파트 | 2022.03 - 2022.08.| [바로가기](https://github.com/MailboxOfMind/MailboxOfMind_BackEnd)|
+  | ProMIS, 동국대학교 경영정보학과 IT 소모임 소모임장 | 2022.03. - 2022.12. | [바로가기](https://github.com/ProMIS-DGU)
+  | 네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지 웹풀스택 | 2022.08 - 2022.09. ||
 
  
   
