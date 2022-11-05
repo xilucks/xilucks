@@ -56,7 +56,4 @@
 ### 👨‍💻BOJ 
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siun0331)](https://solved.ac/siun0331)
-  
-### 🐱 GitHub
-![xilucks's github stats](https://github-readme-stats.vercel.app/api?username=xilucks&show_icons=true&theme=synthwave)&nbsp;
 
