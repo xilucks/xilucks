@@ -39,7 +39,7 @@
   
   ### 🏃‍♀️ Experience
   | 활동 | 일자 | 링크 |
-  |:---:|:---|:---:|
+  |:---:|:---:|:---:|
   | Dongguk Univ. Management Information System. | 2017.03. - ing| |
   | 동국대학교, 모바일 시스템 개발 튜터 | 2018.03. - 2018.06. | | 
   | 동국대학교, 비즈니스 프로그래밍 튜터 | 2018.09. - 2018.12. | |
@@ -53,7 +53,6 @@
   
 </h3>
 
-### 👨‍💻BOJ 
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siun0331)](https://solved.ac/siun0331)
-
+### 👨‍💻BOJ & GitHub
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siun0331)](https://solved.ac/siun0331)&nbsp;
+![xilucks's github stats](https://github-readme-stats.vercel.app/api?username=xilucks&show_icons=true&theme=synthwave)
