@@ -55,4 +55,4 @@
 
 ### 👨‍💻BOJ & GitHub
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siun0331)](https://solved.ac/siun0331)&nbsp;
-![xilucks's github stats](https://github-readme-stats.vercel.app/api?username=xilucks&show_icons=true&theme=synthwave)
+![xilucks's github stats](https://github-readme-stats.vercel.app/api?username=xilucks&show_icons=true&theme=synthwave&card_width=300px&line_height=21)
