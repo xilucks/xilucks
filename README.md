@@ -10,7 +10,6 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <div/>  
 <div>
@@ -20,16 +19,20 @@
 
 #### 🌙 Techs that I've used at least once
 <div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <div>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>  
-</div>    
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  </div>
+  </div>    
 
 #### ⭐️ I'm studying now
 <div>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
   
@@ -47,4 +50,4 @@
 
 ### 👨‍💻BOJ & GitHub
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siun0331)](https://solved.ac/siun0331)&nbsp;
-![xilucks's github stats](https://github-readme-stats.vercel.app/api?username=xilucks&show_icons=true&theme=synthwave&card_width=300px&line_height=21)
+![xilucks's github stats](https://github-readme-stats.vercel.app/api?username=xilucks&show_icons=true&theme=synthwave&card_width=400px&line_height=21)
