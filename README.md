@@ -47,6 +47,7 @@
 | UMC(University MakeUs Challenge), 동국지부 서버 Spring 파트 | 2022.03 - 2022.08.| [바로가기](https://github.com/MailboxOfMind/MailboxOfMind_BackEnd)|
 | ProMIS, 동국대학교 경영정보학과 IT 소모임 소모임장 | 2022.03. - 2022.12. | [바로가기](https://github.com/ProMIS-DGU)
 | 네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지 웹풀스택 | 2022.08 - 2022.09. ||
+| 네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지 웹풀스택 | 2022.09 - 2022.12. |[바로가기](https://github.com/boostcampwm-2022/Web04-Fitory)|
 
 ### 👨‍💻BOJ & GitHub
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siun0331)](https://solved.ac/siun0331)&nbsp;
