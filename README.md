@@ -48,7 +48,7 @@
 | ProMIS, 동국대학교 경영정보학과 IT 소모임 소모임장 | 2022.03. - 2022.12. | [바로가기](https://github.com/ProMIS-DGU)
 | 네이버 커넥트재단 부스트캠프 웹・모바일 7기 챌린지 웹풀스택 | 2022.08 - 2022.09. ||
 | 네이버 커넥트재단 부스트캠프 웹・모바일 7기 멤버십 웹풀스택 | 2022.09 - 2022.12. |[바로가기](https://github.com/boostcampwm-2022/Web04-Fitory)|
-| Nexters, 22nd Web Frontend Devloper | 2023.01 - | |
+| Nexters, 22nd Web Frontend Devloper | 2023.01 - | 2023.03|
 
 ### 👨‍💻BOJ & GitHub
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=siun0331)](https://solved.ac/siun0331)&nbsp;
