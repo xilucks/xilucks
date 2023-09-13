@@ -3,8 +3,8 @@
 
 ## 안녕하세요 최시운입니다.
 활동적인 것을 좋아하는 개발자입니다. <br/>
-프론트엔드 개발을 중점으로 학습하고 있습니다. <br/>
-기술에 종속되기 보다는 필요한 기술을 필요할 때 맞춰 사용하고 싶습니다.
+프론트엔드 개발을 주로하며, 필요에 따라 백엔드 개발을 병행합니다.<br/>
+특정 기술에 종속되기 보다는 필요한 기술을 필요할 때 맞춰 사용하려 합니다.
 
   
 ### 🏃‍♀️ Experience
@@ -13,3 +13,10 @@
 - [네이버 커넥트재단 부스트캠프 웹・모바일 7기 웹풀스택](https://github.com/boostcampwm-2022/Web04-Fitory) ```2022.09. - 2022.12.```
 - Nexters, 22nd/23rd Web Frontend Devloper ```2023.01. - 2023.08.```
 - Hyundai Autoever ```2023.07. - ing. ```
+
+### 💻 Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</div>
