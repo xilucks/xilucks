@@ -15,6 +15,9 @@
 - Nexters, 24th COO ```2023.09. - ing. ```
 - Hyundai Autoever, Software Engineer```2023.07. - ing. ```
 
+### 🖋️ Articles
+- [6개월차 신입 개발자가 팀 생산성에 기여하는 법 - Code Snippet 개발을 통해 편의성과 코드 일관성 높이기](https://developers.hyundaimotorgroup.com/blog/141)
+
 ### 💻 Tech Stack
 <div>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
