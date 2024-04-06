@@ -12,8 +12,8 @@
 - 동국대학교, 모바일 시스템 개발, 비즈니스 프로그래밍 튜터 ```2018.03. - 2018.12.```
 - [네이버 커넥트재단 부스트캠프 웹・모바일 7기 웹풀스택](https://github.com/boostcampwm-2022/Web04-Fitory) ```2022.09. - 2022.12.```
 - Nexters, 22nd/23rd Web Frontend Devloper ```2023.01. - 2023.08.```
-- Nexters, 24th COO ```2023.09. - 2024.02. ```
-- Hyundai Autoever, Software Engineer```2023.07. - ing. ```
+- Nexters, 24th COO ```2023.09. - 2024.02.```
+- Hyundai Autoever, Software Engineer```2023.07. - ing.```
 
 ### 🖋️ Articles
 - [6개월차 신입 개발자가 팀 생산성에 기여하는 법 - Code Snippet 개발을 통해 편의성과 코드 일관성 높이기](https://developers.hyundaimotorgroup.com/blog/141)
